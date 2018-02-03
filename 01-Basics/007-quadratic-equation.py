@@ -9,4 +9,4 @@ s = (a + b + c ) / 2
 
 area = (s*(s-a)*(s-b)*(s-c)) ** 0.5
 
-print("The are of a Triangle is %0.2f" %area)
+print("The area of a Triangle is %0.2f" %area)
